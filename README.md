@@ -24,4 +24,5 @@ Imagen de docker desde Python, se tiene que crear un index.html y se tiene que l
 
 ![image](https://github.com/HectorCRZBQ/docker_image/assets/148070442/18ae00a6-a283-4ca1-915f-171b583bcaac)
 
-
+--- 
+Hector de la Cruz Baquero - [Linkdedin](https://www.linkedin.com/in/h%C3%A9ctor-de-la-cruz-baquero-ba193429b/) - [Webpage](https://hectorcrzbq.github.io/)
